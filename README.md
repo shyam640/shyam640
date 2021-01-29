@@ -178,6 +178,7 @@ Extra Stuffs               5%
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shyam640" alt="@its_shyam640" />
+   ${shyam640}.${shyam640}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
     <a href="https://github.com/shyam640/"><img src="https://img.shields.io/github/followers/shyam640?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
   <a href="https://github.com/shyam640/"><img src="https://img.shields.io/github/last-commit/shyam640/-its_shyam640?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
