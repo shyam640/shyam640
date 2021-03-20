@@ -26,6 +26,7 @@ You can see my github profile and all projects source code <a href="https://gith
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/C-orange?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/-Javascript-8800FF?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/-LaTeX-FF50?style=for-the-badge&logo=latex"/>
 
 
@@ -33,6 +34,7 @@ You can see my github profile and all projects source code <a href="https://gith
 <h3> 👨‍💻 Tools and Software I use</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio"/>
+ <img src="https://img.shields.io/badge/-androidStudio-grey?style=for-the-badge&logo=android-studio"/>
 <img src="https://img.shields.io/badge/-Shell-7F00FF?style=for-the-badge&logo=gnu-bash"/>
 <img src="https://img.shields.io/badge/-Git-F10FF?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/-Vim-FF00FF?style=for-the-badge&logo=vim"/>
@@ -50,7 +52,7 @@ You can see my github profile and all projects source code <a href="https://gith
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12854%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15854%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
