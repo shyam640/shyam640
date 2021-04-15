@@ -6,6 +6,8 @@
  <p align='center'><i>"Creativity Arises from Relativity , if you can Relate Everything then you can create Anything."</i></p>
 </p>
 
+<img src="ezgif.com-gif-maker_(1)_(1)[1].gif" width='1200px'>
+
 <h3> <img src="Hi.gif" width="30px"> Hi ! there, </h3> 
 
 I'm Shyam, a CSE graduating 🎓 from <a href="https://www.lpu.in/">Lovely Professional University</a>. Primarily interested in Competitive Programming and Maths applied to reduce the Complexity of Program. 
