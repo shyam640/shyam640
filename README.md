@@ -6,7 +6,7 @@
  <p align='center'><i>"Creativity Arises from Relativity , if you can Relate Everything then you can create Anything."</i></p>
 </p>
 
-<img src="ezgif.com-gif-maker_(1)_(1)[1].gif" width='1200px'>
+<img src="github3d.gif" width='1200px'>
 
 <h3> <img src="Hi.gif" width="30px"> Hi ! there, </h3> 
 
@@ -15,10 +15,10 @@ I'm Shyam, a CSE graduating 🎓 from <a href="https://www.lpu.in/">Lovely Profe
 You can see my github profile and all projects source code <a href="https://github.com/shyam640">here</a>.
 
 
-<h3> 👨‍💻 Languages and Frameworks I use</h3>
+<h3> 👨‍💻 Languages,Frameworks and Databases I Know</h3>
 
 <!--START_SECTION:colourise-->
-<p align=center>
+<p align="center">
 <!-- <img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" /> -->
 <!-- <img src="https://img.shields.io/badge/-R-FF8000?style=for-the-badge&logo=r"/> -->
 
@@ -29,6 +29,8 @@ You can see my github profile and all projects source code <a href="https://gith
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/C-orange?style=for-the-badge&logo=c"/>
 <img src="https://img.shields.io/badge/-Javascript-8800FF?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Firebase-8800FF?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/-Bootstrap-2300F1?style=for-the-badge&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-LaTeX-FF50?style=for-the-badge&logo=latex"/>
 
 
@@ -41,6 +43,13 @@ You can see my github profile and all projects source code <a href="https://gith
 <img src="https://img.shields.io/badge/-Git-F10FF?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/-Vim-FF00FF?style=for-the-badge&logo=vim"/>
 </p>
+
+<h3> 💻 Extra Tools</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-blender-blue?style=for-the-badge&logo=blender"/>
+
+</p>
+
 <br><br>
 <details>
 <summary> <b>📊 Some GitHub stats </b></summary>
@@ -54,9 +63,9 @@ You can see my github profile and all projects source code <a href="https://gith
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25854%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75854%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data (2020)** 
 
 > 🏆  23 Contributions in the Year 2020
  > 
@@ -73,22 +82,22 @@ You can see my github profile and all projects source code <a href="https://gith
 This an approximate calculation
 
 ```text
-🌞 Morning    0 commits     ██░░░░░░░░░░░░░░░░░░   2% 
-🌆 Daytime    2 commits     ██████░░░░░░░░░░░░   15% 
-🌃 Evening    0 commits     ███░░░░░░░░░░░░░░░░░░░   3% 
-🌙 Night      7 commits     ██████████░░░░░░░░░░░░░░░  80%
+🌞 Morning    7 commits     ████████████░░░░░░░░░░░  2% 
+🌆 Daytime    3 commits     ██████░░░░░░░░░░░░░░░░░  15% 
+🌃 Evening    5 commits     ███░░░░░░░░░░░░░░░░░░░░  3% 
+🌙 Night      12 commits     ████████████████████░░  80%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       3 commits     ███░░░░░░░░░░░░░░░░░░░░░░   5% 
+Monday       3 commits     ███░░░░░░░░░░░░░░░░░░░░   5% 
 Tuesday      2 commits     ██░░░░░░░░░░░░░░░░░░░░░   4% 
-Wednesday    1 commits     █░░░░░░░░░░░░░░░░░░░░░   3% 
-Thursday     4 commits     ██████░░░░░░░░░░░░░░░░░░░   7% 
-Friday       3 commits     ███░░░░░░░░░░░░░░░░░░░░░░░   5% 
-Saturday     10 commits    █████████████░░░░░░░░░░░░░   30% 
-Sunday       15 commits    ██████████████████░░░░░░░░   45%
+Wednesday    1 commits     █░░░░░░░░░░░░░░░░░░░░░░   3% 
+Thursday     4 commits     ██████░░░░░░░░░░░░░░░░░   7% 
+Friday       3 commits     ███░░░░░░░░░░░░░░░░░░░░   5% 
+Saturday     10 commits    █████████████░░░░░░░░░░   30% 
+Sunday       15 commits    ██████████████████░░░░░   45%
 
 ```
 
@@ -96,41 +105,44 @@ Sunday       15 commits    █████████████████�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Mumbai/India
+⌚︎ Time Zone: Gwalior/Madhya Pradesh/India
 
-💬 Programming Languages: 
-Python                   0 mins     
+💬 Computer Languages: 
+Python                      
 ███░░░░░░░░░░░░░░░░░░░░░   5% 
-C++                    3 hrs 54 mins       
-████████████░░░░░░░░░░░░░   20% 
-HTML/CSS                     25 mins            
-████░░░░░░░░░░░░░░░░░░░   5% 
-DSA                     6 hrs 20 mins              
-████████████████████░░░░░   50%
+C++                        
+██████████████████░░░░░░   20% 
+JavaScript                    
+██████████████████░░░░░░   20% 
+HTML/CSS                        
+███████████████████░░░░░   5% 
+DSA                                   
+████████████████████░░░░░  50%
 
 🔥 Editors: 
-VS-Code                     16 hrs 59 mins      
-████████████████████░░░░░   75% 
-Gitpod                      3 hrs 36 mins       
-██████████░░░░░░░░░░░░░░░   20%
-Online Editor               36 mins       
-██░░░░░░░░░░░░░░░░░░░░░░░   5%
+VS-Code                           
+████████████████████░░░░░   65% 
+Android Studio                 
+████████████████████░░░░░   25% 
+Gitpod                          
+██████████░░░░░░░░░░░░░░░   7%
+Online Editor                    
+██░░░░░░░░░░░░░░░░░░░░░░░   3%
 
 
-🐱‍💻 Projects: 
-Website                 16 hrs 20 mins     
-███████████████████░░░░░░   79.29% 
-Snake Game             2 hrs 37 mins       
-███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
-Extra                  1 hr 37 mins       
-██░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
-Unknown                0 secs              
-░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+🐱‍💻 Learnings: 
+Morning                   
+████████████░░░░░░░░░░░░░   40% 
+Day             
+███░░░░░░░░░░░░░░░░░░░░░░   5% 
+Night                    
+████████████████░░░░░░░░░   55% 
+
 
 💻 Operating System: 
-Windows                    13 hrs 36 mins     
+Windows                    20 hrs     
 █████████████████████████   80.0%
-Linux                      16 hrs 20 mins     
+Linux                      4 hrs     
 ███████████████████░░░░░░   20.0% 
 
 ```
@@ -139,15 +151,18 @@ Linux                      16 hrs 20 mins
 
 ```text
 Python                   0 repos            
-█████████░░░░░░░░░░░░░░░░░░░   10% 
+█████████░░░░░░░░░░░░░░░░   
+JavaScript               3 repos            
+█████████████░░░░░░░░░░░░   
 C++                      17 repos             
-█████████████████████░░░░   65% 
+█████████████████████░░░░    
 C                        2 repos            
-████████████░░░░░░░░░░░░░   10% 
+████████████░░░░░░░░░░░░░   
 Shell                    0 repos             
-███████░░░░░░░░░░░░░░░░░░   5% 
-HTML/CSS                  3 repos            
-█████████████░░░░░░░░░░░░   10%
+███████░░░░░░░░░░░░░░░░░░   
+HTML/CSS                 5 repos            
+█████████████░░░░░░░░░░░░   
+
 
 ```
 **My Interests**
