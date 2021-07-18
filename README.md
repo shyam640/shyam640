@@ -25,13 +25,16 @@ You can see my github profile and all projects source code <a href="https://gith
 
 <img src="https://img.shields.io/badge/-C++-243099?style=for-the-badge&logo=c%2b%2b"/>
 <!-- <img src="https://img.shields.io/badge/-CUDA-00FFFF?style=for-the-badge&logo=nvidia"/> -->
+<img src="https://img.shields.io/badge/-Javascript-8800FF?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/-NodeJS-purple?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/-MongoDB-ffffff?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Firebase-8800FF?style=for-the-badge&logo=firebase"/>
+ <img src="https://img.shields.io/badge/-npm-5860cc?style=for-the-badge&logo=npm"/>
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/C-orange?style=for-the-badge&logo=c"/>
-<img src="https://img.shields.io/badge/-Javascript-8800FF?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Firebase-8800FF?style=for-the-badge&logo=firebase"/>
 <img src="https://img.shields.io/badge/-Bootstrap-2300F1?style=for-the-badge&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-LaTeX-FF50?style=for-the-badge&logo=latex"/>
+<img src="https://img.shields.io/badge/-LaTeX-red?style=for-the-badge&logo=latex"/>
 
 
 </p>
@@ -39,6 +42,7 @@ You can see my github profile and all projects source code <a href="https://gith
 <p align="center">
 <img src="https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio"/>
  <img src="https://img.shields.io/badge/-androidStudio-grey?style=for-the-badge&logo=android-studio"/>
+  <img src="https://img.shields.io/badge/-postman-brown?style=for-the-badge&logo=postman"/>
 <img src="https://img.shields.io/badge/-Shell-7F00FF?style=for-the-badge&logo=gnu-bash"/>
 <img src="https://img.shields.io/badge/-Git-F10FF?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/-Vim-FF00FF?style=for-the-badge&logo=vim"/>
@@ -85,7 +89,7 @@ This an approximate calculation
 🌞 Morning    7 commits     ████████████░░░░░░░░░░░  2% 
 🌆 Daytime    3 commits     ██████░░░░░░░░░░░░░░░░░  15% 
 🌃 Evening    5 commits     ███░░░░░░░░░░░░░░░░░░░░  3% 
-🌙 Night      12 commits     ████████████████████░░  80%
+🌙 Night      12 commits    █████████████████████░░  80%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -169,9 +173,7 @@ HTML/CSS                 5 repos
 ```text
 Coding                     90%
 █████████████████████░░░
-Poetry                     5%
-███░░░░░░░░░░░░░░░░░░░░░
-Extra Stuffs               5%
+Extra Stuffs               10%
 ███░░░░░░░░░░░░░░░░░░░░░
 ```
 
