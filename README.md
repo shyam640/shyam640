@@ -14,11 +14,12 @@ I'm Shyam, a CSE graduating 🎓 from <a href="https://www.lpu.in/">Lovely Profe
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Competitive+Programming+Enthusiasts;Full+Stack+Learner;Passionate+about+Algorithm+Learning)](https://git.io/typing-svg)
 
+-----
 
 <h3> 👨 About Me</h3>
 <img src="https://metrics.lecoq.io/shyam640"/>
 
-
+-----
 <h3> 👨‍💻 Languages,Frameworks and Databases I Know</h3>
 
 <!--START_SECTION:colourise-->
@@ -59,6 +60,8 @@ I'm Shyam, a CSE graduating 🎓 from <a href="https://www.lpu.in/">Lovely Profe
 
 </p>
 
+-----
+
 <br><br>
 <details>
 <summary> <b>📊 Some GitHub stats </b></summary>
@@ -73,7 +76,6 @@ I'm Shyam, a CSE graduating 🎓 from <a href="https://www.lpu.in/">Lovely Profe
  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=shyam640&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 </p>
 </details>
-
 <details>
 <summary> <b>📊 Weekly Stats</b> </summary>
 
@@ -161,7 +163,8 @@ Extra Stuffs               10%
 ```
 
 </details>
- 
+
+
 <details>
 <summary> <b>📫 Contact me </b></summary>
 <p align="center">
@@ -171,7 +174,9 @@ Extra Stuffs               10%
 </p>
 </details>
 <br><br>
-<b> <i><=======CODING PLATFORMS==========></i>
+
+
+<b> <i>CODING PLATFORMS</i>
 <br><br>
 <p> <a href="https://leetcode.com/its_shyam640/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode"></a>
  <a href="https://www.codechef.com/users/its_shyam640"><img alt="codechef" src="https://img.shields.io/badge/Codechef-blue?style=for-the-badge&logo=codechef"></a>
