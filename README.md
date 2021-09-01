@@ -5,14 +5,18 @@
 </a>
  <p align='center'><i>"Creativity Arises from Relativity , if you can Relate Everything then you can create Anything."</i></p>
 </p>
-
+<br><br><br>
 <img src="Github3Dstats.gif" width='1200px'>
 
 <h3> <img src="Hi.gif" width="30px"> Hi ! there, </h3> 
 
 I'm Shyam, a CSE graduating 🎓 from <a href="https://www.lpu.in/">Lovely Professional University</a>. Primarily interested in Competitive Programming and Maths applied to reduce the Complexity of Program. 
 
-You can see my github profile and all projects source code <a href="https://github.com/shyam640">here</a>.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Competitive+Programming+Enthusiasts;Full+Stack+Learner;Passionate+about+Algorithm+Learning)](https://git.io/typing-svg)
+
+
+<h3> 👨 About Me</h3>
+<img src="https://metrics.lecoq.io/shyam640"/>
 
 
 <h3> 👨‍💻 Languages,Frameworks and Databases I Know</h3>
@@ -51,6 +55,7 @@ You can see my github profile and all projects source code <a href="https://gith
 <h3> 💻 Extra Tools</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-blender-blue?style=for-the-badge&logo=blender"/>
+<img src="https://img.shields.io/badge/-unity-yellow?style=for-the-badge&logo=unity"/>
 
 </p>
 
@@ -58,8 +63,14 @@ You can see my github profile and all projects source code <a href="https://gith
 <details>
 <summary> <b>📊 Some GitHub stats </b></summary>
 <p align="center">
-  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=shyam640&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
-<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam640&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=shyam640&show_icons=true&theme=tokyonight" alt="My Readme Stats"/>
+ <br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyam640&theme=tokyonight" alt="mystreak"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam640&theme=tokyonight&layout=compact" alt="My Languages Stats"/>
+ <br><br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=shyam640&theme=tokyonight&layout=compact" alt="My Languages Stats"/>
+ <br><br>
+ <img align="center" src="https://activity-graph.herokuapp.com/graph?username=shyam640&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 </p>
 </details>
 
@@ -67,7 +78,7 @@ You can see my github profile and all projects source code <a href="https://gith
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75854%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-counting....-blue)
 
 **🐱 My Github Data (2020)** 
 
@@ -75,9 +86,9 @@ You can see my github profile and all projects source code <a href="https://gith
  > 
 > 📦 Approx. 21.1 MB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
+> 💼 In Search of Job
  > 
-> 📜 21 Public Repositories
+> 📜 30 Public Repositories
  > 
 > 🔑 2 Private Repositories 
 
@@ -111,18 +122,6 @@ Sunday       15 commits    █████████████████�
 ```text
 ⌚︎ Time Zone: Gwalior/Madhya Pradesh/India
 
-💬 Computer Languages: 
-Python                      
-███░░░░░░░░░░░░░░░░░░░░░   5% 
-C++                        
-██████████████████░░░░░░   20% 
-JavaScript                    
-██████████████████░░░░░░   20% 
-HTML/CSS                        
-███████████████████░░░░░   5% 
-DSA                                   
-████████████████████░░░░░  50%
-
 🔥 Editors: 
 VS-Code                           
 ████████████████████░░░░░   65% 
@@ -151,22 +150,6 @@ Linux                      4 hrs
 
 ```
 
-**I Mostly Code in C++** 
-
-```text
-Python                   0 repos            
-█████████░░░░░░░░░░░░░░░░   
-JavaScript               3 repos            
-█████████████░░░░░░░░░░░░   
-C++                      17 repos             
-█████████████████████░░░░    
-C                        2 repos            
-████████████░░░░░░░░░░░░░   
-Shell                    0 repos             
-███████░░░░░░░░░░░░░░░░░░   
-HTML/CSS                 5 repos            
-█████████████░░░░░░░░░░░░   
-
 
 ```
 **My Interests**
@@ -190,9 +173,10 @@ Extra Stuffs               10%
 <br><br>
 <b> <i><=======CODING PLATFORMS==========></i>
 <br><br>
-<p> <a href="https://www.codechef.com/users/its_shyam640"><img alt="codechef" src="https://img.shields.io/badge/Codechef-blue?style=for-the-badge&logo=codechef"></a>
+<p> <a href="https://leetcode.com/its_shyam640/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode"></a>
+ <a href="https://www.codechef.com/users/its_shyam640"><img alt="codechef" src="https://img.shields.io/badge/Codechef-blue?style=for-the-badge&logo=codechef"></a>
 <a href="https://www.hackerrank.com/its_shyam640"><img alt="hackerrank" src="https://img.shields.io/badge/Hackerrank-blue?style=for-the-badge&logo=hackerrank"></a>
-<a href="https://www.stopstalk.com/user/profile/its_shyam640"><img alt="TrackMeOn" src="https://img.shields.io/badge/TrackMeOn-blue?style=for-the-badge&logo=search-icon"></a>
+<a href="https://www.stopstalk.com/user/profile/its_shyam640"><img alt="TrackMeOn" src="https://img.shields.io/badge/TrackMeOn-pink?style=for-the-badge&logo=stopstalk"></a>
 </p>
 
 ------
